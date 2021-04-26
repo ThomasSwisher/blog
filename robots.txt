@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://ThomasSwisher.github.io/blogsitemap.xml
